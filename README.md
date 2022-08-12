@@ -4,7 +4,7 @@
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-### I'm 18 years old learning Full-Stack development at Trybe.
+### I'm 19 years old learning Full-Stack development at Trybe.
 
 
 <br />
